@@ -1,4 +1,4 @@
-Happy Birthday
+Happy Birthday Greetings
 
 A Happy Birthday animation design in CSS3, HTML5.
 
